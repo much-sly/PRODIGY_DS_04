@@ -16,4 +16,4 @@ The dataset has 4 columns :
 
 My analysis involved cleaning the data and using various plots to collect insights from the data. The following plot shows a representation of the distribution of the sentiments within the dataset.
 
-![Sentiment Distribution]()
+![Sentiment Distribution](Sentiment%20Distribution.png)
